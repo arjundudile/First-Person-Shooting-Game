@@ -1,19 +1,19 @@
-⚔️ First-Person Shooter (FPS) Game
+#⚔️ First-Person Shooter (FPS) Game
 
 A Unity-based FPS prototype featuring realistic environments, enemy AI, and polished shooting mechanics.
 
 <p align="center"> <img src="https://via.placeholder.com/900x400?text=FPS+Gameplay+Preview" alt="Gameplay Preview"/> </p>
-🎮 Overview
+#🎮 Overview
 
 This project is a fully playable First-Person Shooter (FPS) game built in Unity, showcasing smooth shooting mechanics, enemy AI behavior, and a high-quality 3D environment.
 Whether you're exploring FPS development or expanding your Unity portfolio, this project serves as a clean foundation to build on.
 
-🌟 Features
+#🌟 Features
 🌍 Immersive 3D Environment
 
 Crafted using premium assets from the Unity Asset Store, providing a realistic, atmospheric world with high-quality textures and lighting.
 
-🔫 Responsive Shooting System
+#🔫 Responsive Shooting System
 
 Click-to-shoot mechanics
 
@@ -21,7 +21,7 @@ Realistic muzzle effects & sound (if added)
 
 Smooth weapon animation handling
 
-🧠 Enemy AI Opponents
+#🧠 Enemy AI Opponents
 
 AI enemies with movement patterns
 
@@ -29,7 +29,7 @@ Chasing & attacking logic
 
 Multiple opponents for replayability
 
-💡 Polished Visuals
+#💡 Polished Visuals
 
 High-resolution textures
 
@@ -37,15 +37,15 @@ Post-processing for natural lighting
 
 Dynamic shadows and environment details
 
-🎮 Intuitive Player Controls
+#🎮 Intuitive Player Controls
 Action	Control
 Move Forward	W
 Move Left	A
 Move Backward	S
 Move Right	D
 Fire Weapon	Left Mouse Click
-🛠️ Tech Stack
-🧩 Technologies Used
+#🛠️ Tech Stack
+#🧩 Technologies Used
 
 Unity (2022.x or above)
 
@@ -55,14 +55,7 @@ Unity Asset Store models & environment assets
 
 🏷️ Badges
 
-
-
-
-
-
-
-
-🚀 Getting Started
+#🚀 Getting Started
 1. Clone the Repository
 git clone https://github.com/yourusername/fps-game.git
 
@@ -80,7 +73,7 @@ Press Play in Unity Editor
 
 Use WASD + Mouse to navigate & shoot
 
-📁 Project Structure
+#📁 Project Structure
 FPS-Game/
 │── Assets/
 │   ├── Scripts/
@@ -94,14 +87,14 @@ FPS-Game/
 │── Packages/
 └── README.md
 
-🎥 Demo
+#🎥 Demo
 
 (Add your gameplay GIF or YouTube link here)
 Example placeholder:
 
 Coming soon: Gameplay demo video!
 
-🧭 Roadmap
+#🧭 Roadmap
 
  Add health & damage systems
 
@@ -115,12 +108,12 @@ Coming soon: Gameplay demo video!
 
  Release standalone build
 
-🤝 Contributing
+#🤝 Contributing
 
 Contributions are welcome!
 
 If you'd like to improve AI, add mechanics, or polish graphics, feel free to submit a PR.
 
-📜 License
+#📜 License
 
 This project is licensed under the MIT License — you're free to use, modify, and distribute it.
