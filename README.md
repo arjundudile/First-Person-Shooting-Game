@@ -1,37 +1,126 @@
-# ⚔️ First-Person Shooter Game
+⚔️ First-Person Shooter (FPS) Game
 
-Welcome to my  First-Person Shooter (FPS) game! This project is built using Unity and showcases engaging FPS mechanics and visually appealing graphics. Whether you're a gamer or a developer, this project offers a great starting point for FPS game development.
+A Unity-based FPS prototype featuring realistic environments, enemy AI, and polished shooting mechanics.
 
-## 🎮 Features
+<p align="center"> <img src="https://via.placeholder.com/900x400?text=FPS+Gameplay+Preview" alt="Gameplay Preview"/> </p>
+🎮 Overview
 
-🌍 Immersive Environment
-Built using a high-quality environment from the Unity Asset Store, providing a realistic and atmospheric setting.
+This project is a fully playable First-Person Shooter (FPS) game built in Unity, showcasing smooth shooting mechanics, enemy AI behavior, and a high-quality 3D environment.
+Whether you're exploring FPS development or expanding your Unity portfolio, this project serves as a clean foundation to build on.
 
-🔫 Firing Mechanics
-Smooth and responsive shooting system triggered via mouse click.
+🌟 Features
+🌍 Immersive 3D Environment
 
-🧠 Multiple Opponents
-AI-controlled enemies to challenge your reflexes and tactics.
+Crafted using premium assets from the Unity Asset Store, providing a realistic, atmospheric world with high-quality textures and lighting.
 
-💡 Great Graphics
-High-quality textures, lighting, and post-processing for a polished visual experience.
+🔫 Responsive Shooting System
 
-🎮 Player Controls
+Click-to-shoot mechanics
 
-W – Move Forward
+Realistic muzzle effects & sound (if added)
 
-A – Move Left
+Smooth weapon animation handling
 
-S – Move Backward
+🧠 Enemy AI Opponents
 
-D – Move Right
+AI enemies with movement patterns
 
-Mouse Click – Fire Weapon
+Chasing & attacking logic
 
-## 🛠️ Tech Stack
+Multiple opponents for replayability
 
-Game Engine: Unity
+💡 Polished Visuals
 
-Scripting Language: C#
+High-resolution textures
 
-Assets: Environment and models sourced from the Unity Asset Store
+Post-processing for natural lighting
+
+Dynamic shadows and environment details
+
+🎮 Intuitive Player Controls
+Action	Control
+Move Forward	W
+Move Left	A
+Move Backward	S
+Move Right	D
+Fire Weapon	Left Mouse Click
+🛠️ Tech Stack
+🧩 Technologies Used
+
+Unity (2022.x or above)
+
+C# Scripts for player, weapon, and AI logic
+
+Unity Asset Store models & environment assets
+
+🏷️ Badges
+
+
+
+
+
+
+
+
+🚀 Getting Started
+1. Clone the Repository
+git clone https://github.com/yourusername/fps-game.git
+
+2. Open in Unity
+
+Install Unity 2022+
+
+Open the project folder
+
+Unity will automatically import all assets
+
+3. Play the Game
+
+Press Play in Unity Editor
+
+Use WASD + Mouse to navigate & shoot
+
+📁 Project Structure
+FPS-Game/
+│── Assets/
+│   ├── Scripts/
+│   │   ├── Player/
+│   │   ├── EnemyAI/
+│   │   └── Weapons/
+│   ├── Environment/
+│   ├── Prefabs/
+│   └── Materials/
+│── ProjectSettings/
+│── Packages/
+└── README.md
+
+🎥 Demo
+
+(Add your gameplay GIF or YouTube link here)
+Example placeholder:
+
+Coming soon: Gameplay demo video!
+
+🧭 Roadmap
+
+ Add health & damage systems
+
+ Add multiple weapons
+
+ Add mini-map or HUD
+
+ Add game menu & UI
+
+ Add enemy animations
+
+ Release standalone build
+
+🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve AI, add mechanics, or polish graphics, feel free to submit a PR.
+
+📜 License
+
+This project is licensed under the MIT License — you're free to use, modify, and distribute it.
